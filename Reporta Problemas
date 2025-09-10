@@ -1,0 +1,15 @@
+Si encuentras algún error:
+
+Revisa la consola del navegador (F12) para mensajes de error
+
+Verifica que tengas JavaScript habilitado
+
+Asegúrate de usar un navegador compatible
+
+Problemas comunes:
+
+❌ Datos no persisten → Verificar que localStorage esté habilitado
+
+❌ No se descargan archivos → Verificar configuraciones de descarga del navegador
+
+❌ Errores visuales → Limpiar caché del navegador (Ctrl+F5)
