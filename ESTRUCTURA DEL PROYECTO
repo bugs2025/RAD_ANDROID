@@ -1,0 +1,16 @@
+RAD_ANDROID/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/radandroid/
+│   │   │   │   ├── data/
+│   │   │   │   ├── domain/
+│   │   │   │   ├── presentation/
+│   │   │   │   └── di/
+│   │   │   ├── res/
+│   │   │   └── AndroidManifest.xml
+│   │   └── test/
+│   └── build.gradle
+├── build.gradle
+├── settings.gradle
+└── gradle.properties
