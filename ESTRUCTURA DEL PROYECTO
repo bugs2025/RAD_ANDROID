@@ -1,16 +1,9 @@
 RAD_ANDROID/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/radandroid/
-│   │   │   │   ├── data/
-│   │   │   │   ├── domain/
-│   │   │   │   ├── presentation/
-│   │   │   │   └── di/
-│   │   │   ├── res/
-│   │   │   └── AndroidManifest.xml
-│   │   └── test/
-│   └── build.gradle
-├── build.gradle
-├── settings.gradle
-└── gradle.properties
+├── 📄 index.html              # Página principal
+├── 📖 README.md               # Documentación (este archivo)
+├── 📄 LICENSE                 # Licencia MIT
+├── 🚫 .gitignore             # Archivos excluidos de Git
+└── 📦 assets/                # Recursos del sistema
+    ├── 🎨 css/               # Hojas de estilo
+    ├── ⚡ js/                # Scripts JavaScript
+    └── 🖼️ images/           # Imágenes e iconos
