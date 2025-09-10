@@ -1,37 +1,29 @@
 # RAD Android 🚀
+# Sistema de Registro de Actividades OATI
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bugs2025/RAD_ANDROID)
+Sistema web para la gestión y seguimiento de actividades diarias de la Oficina de Apoyo Técnico Informático.
 
-> Un proyecto Android moderno desarrollado con las mejores prácticas y tecnologías actuales.
+![Estado del Proyecto](https://img.shields.io/badge/Estado-🚀%20En%20Producción-brightgreen)
+![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)
+![Versión](https://img.shields.io/badge/Versión-1.0.0-orange)
 
-## 📋 Características
+## ✨ Características Principales
 
-- ✨ Interfaz moderna y responsive
-- 🚀 Alto rendimiento y optimización
-- 🔐 Funcionalidades de seguridad integradas
-- 📊 Analytics y seguimiento de uso
-- 🌐 Soporte para múltiples idiomas
-- 🧩 Arquitectura modular y escalable
+| Funcionalidad | Descripción | Estado |
+|---------------|-------------|---------|
+| 📝 Registro Completo | Captura todos los datos técnicos de actividades | ✅ Implementado |
+| 📊 Exportación PDF/Excel | Genera reportes en múltiples formatos | ✅ Implementado |
+| 💾 Almacenamiento Local | Datos persistentes en el navegador | ✅ Implementado |
+| 📱 Diseño Responsive | Funciona en desktop, tablet y móvil | ✅ Implementado |
+| 🔍 Búsqueda Avanzada | Filtra y encuentra actividades rápidamente | ✅ Implementado |
 
-## 🛠️ Tecnologías utilizadas
+## 🚀 Demo en Vivo
 
-- **Lenguaje**: Kotlin
-- **Arquitectura**: MVVM (Model-View-ViewModel)
-- **Librerías principales**:
-  - Jetpack Compose
-  - Room Database
-  - Retrofit
-  - Dagger Hilt
-  - Coroutines
-  - LiveData
+🔗 **URL del Sistema:** [https://bugs2025.github.io/RAD_ANDROID/](https://bugs2025.github.io/RAD_ANDROID/)
 
-## 📦 Instalación
+## 📦 Instalación y Uso
 
-Sigue estos pasos para configurar el proyecto localmente:
-
-1. **Clona el repositorio**:
-   ```bash
-   git clone https://github.com/bugs2025/RAD_ANDROID.git
-   cd RAD_ANDROID
+### Acceso Inmediato
+1. **Abre** el enlace de GitHub Pages
+2. **Comienza** a registrar actividades inmediatamente
+3. **Exporta** tus datos cuando necesites respaldos
